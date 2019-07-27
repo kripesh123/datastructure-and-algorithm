@@ -1,6 +1,8 @@
 package com.kripesh.interviewqa.arraysandstrings;
 
 /**
+ * Check if it is a permutation of a palindrome.
+ * A palindrome is a word or phrase that is the same forwards and backwards.
  * @author kripesh
  */
 public class PalindromePermutation {
