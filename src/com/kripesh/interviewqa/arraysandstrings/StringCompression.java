@@ -1,6 +1,9 @@
 package com.kripesh.interviewqa.arraysandstrings;
 
 /**
+ *
+ * basic string compression using the counts
+ * of repeated characters. For example, the string aabcccccaaa would become a2blc5a3.
  * @author kripesh
  */
 public class StringCompression {
