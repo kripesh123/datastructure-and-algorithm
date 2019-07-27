@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="138dde6e-e8e1-493d-ab04-48c7ea33ebae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/META-INF/java.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/META-INF/java.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/PalindromePermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/PalindromePermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/IsUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/IsUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/OneAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/OneAway.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromePermutation">
+  <component name="RunManager" selected="Application.OneAway">
     <configuration name="CheckPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kripesh.interviewqa.arraysandstrings.CheckPermutation" />
       <module name="java" />
@@ -88,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kripesh.interviewqa.arraysandstrings.Main" />
+    <configuration name="OneAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kripesh.interviewqa.arraysandstrings.OneAway" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OneAway" />
         <item itemvalue="Application.PalindromePermutation" />
         <item itemvalue="Application.URLify" />
         <item itemvalue="Application.CheckPermutation" />
         <item itemvalue="Application.IsUnique" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,19 +177,14 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/PalindromePermutation.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="34" />
+          <url>file://$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/OneAway.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/PalindromePermutation.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/PalindromePermutation.java</url>
-          <line>96</line>
-          <option name="timeStamp" value="37" />
+          <url>file://$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/OneAway.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

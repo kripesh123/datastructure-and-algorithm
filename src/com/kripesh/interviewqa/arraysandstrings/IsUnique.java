@@ -9,7 +9,7 @@ package com.kripesh.interviewqa.arraysandstrings;
 public class IsUnique {
 
     public static void main(String[] args) {
-       // System.out.println(isUniqueChars("abcdefghijkl"));
+        System.out.println(isUniqueChars("abcdefghijkl"));
         System.out.println(inUniqueChars2("abacdefghijkl"));
     }
 
