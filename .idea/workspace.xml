@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="138dde6e-e8e1-493d-ab04-48c7ea33ebae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/StringCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/IsUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/IsUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/OneAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kripesh/interviewqa/arraysandstrings/OneAway.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,22 +59,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OneAway">
+  <component name="RunManager" selected="Application.StringCompression">
     <configuration name="CheckPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kripesh.interviewqa.arraysandstrings.CheckPermutation" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kripesh.interviewqa.arraysandstrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kripesh.interviewqa.arraysandstrings.IsUnique" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -113,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kripesh.interviewqa.arraysandstrings.StringCompression" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kripesh.interviewqa.arraysandstrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="URLify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kripesh.interviewqa.arraysandstrings.URLify" />
       <module name="java" />
@@ -128,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringCompression" />
         <item itemvalue="Application.OneAway" />
         <item itemvalue="Application.PalindromePermutation" />
         <item itemvalue="Application.URLify" />
         <item itemvalue="Application.CheckPermutation" />
-        <item itemvalue="Application.IsUnique" />
       </list>
     </recent_temporary>
   </component>
